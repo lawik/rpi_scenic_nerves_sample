@@ -1,0 +1,6 @@
+Peripheral check
+
+Device  ScenicShowsUp  OfficialPiScreen  HDMI  InputEventFindsDevices
+rpi3a   Y              Y                 Y     N
+rpi4    N              Y                 Y     Y 
+rpi3    Y              Y                 Y     Y
